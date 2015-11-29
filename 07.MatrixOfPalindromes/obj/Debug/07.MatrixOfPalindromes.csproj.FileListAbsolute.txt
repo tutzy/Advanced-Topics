@@ -1,0 +1,5 @@
+D:\tutzy\C#\Homework\ConsoleApplication1\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe.config
+D:\tutzy\C#\Homework\ConsoleApplication1\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.pdb
+D:\tutzy\C#\Homework\ConsoleApplication1\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.pdb

@@ -1,0 +1,5 @@
+D:\tutzy\C#\Homework\ConsoleApplication1\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.exe.config
+D:\tutzy\C#\Homework\ConsoleApplication1\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.pdb
+D:\tutzy\C#\Homework\ConsoleApplication1\13.AverageLoadTimeCalculator\obj\Debug\13.AverageLoadTimeCalculator.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\13.AverageLoadTimeCalculator\obj\Debug\13.AverageLoadTimeCalculator.pdb

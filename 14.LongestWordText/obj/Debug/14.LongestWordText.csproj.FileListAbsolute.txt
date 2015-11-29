@@ -1,0 +1,6 @@
+D:\tutzy\C#\Homework\ConsoleApplication1\14.LongestWordText\bin\Debug\14.LongestWordText.exe.config
+D:\tutzy\C#\Homework\ConsoleApplication1\14.LongestWordText\obj\Debug\14.LongestWordText.csprojResolveAssemblyReference.cache
+D:\tutzy\C#\Homework\ConsoleApplication1\14.LongestWordText\bin\Debug\14.LongestWordText.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\14.LongestWordText\bin\Debug\14.LongestWordText.pdb
+D:\tutzy\C#\Homework\ConsoleApplication1\14.LongestWordText\obj\Debug\14.LongestWordText.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\14.LongestWordText\obj\Debug\14.LongestWordText.pdb

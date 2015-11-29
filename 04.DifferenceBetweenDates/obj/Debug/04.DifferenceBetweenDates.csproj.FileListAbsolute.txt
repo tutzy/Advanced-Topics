@@ -1,0 +1,6 @@
+D:\tutzy\C#\Homework\ConsoleApplication1\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.exe.config
+D:\tutzy\C#\Homework\ConsoleApplication1\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.pdb
+D:\tutzy\C#\Homework\ConsoleApplication1\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+D:\tutzy\C#\Homework\ConsoleApplication1\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.pdb

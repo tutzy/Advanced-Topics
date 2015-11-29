@@ -1,0 +1,6 @@
+D:\tutzy\C#\Homework\ConsoleApplication1\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe.config
+D:\tutzy\C#\Homework\ConsoleApplication1\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.pdb
+D:\tutzy\C#\Homework\ConsoleApplication1\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.csprojResolveAssemblyReference.cache
+D:\tutzy\C#\Homework\ConsoleApplication1\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.pdb

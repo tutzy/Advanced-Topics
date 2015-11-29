@@ -1,0 +1,5 @@
+D:\tutzy\C#\Homework\ConsoleApplication1\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe.config
+D:\tutzy\C#\Homework\ConsoleApplication1\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.pdb
+D:\tutzy\C#\Homework\ConsoleApplication1\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.pdb

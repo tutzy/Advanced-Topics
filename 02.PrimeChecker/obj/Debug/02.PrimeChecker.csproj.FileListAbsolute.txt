@@ -1,0 +1,6 @@
+D:\tutzy\C#\Homework\ConsoleApplication1\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe.config
+D:\tutzy\C#\Homework\ConsoleApplication1\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+D:\tutzy\C#\Homework\ConsoleApplication1\02.PrimeChecker\obj\Debug\02.PrimeChecker.csprojResolveAssemblyReference.cache
+D:\tutzy\C#\Homework\ConsoleApplication1\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb

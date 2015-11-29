@@ -1,0 +1,5 @@
+D:\tutzy\C#\Homework\ConsoleApplication1\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe.config
+D:\tutzy\C#\Homework\ConsoleApplication1\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\05.SortingNumbers\bin\Debug\05.SortingNumbers.pdb
+D:\tutzy\C#\Homework\ConsoleApplication1\05.SortingNumbers\obj\Debug\05.SortingNumbers.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\05.SortingNumbers\obj\Debug\05.SortingNumbers.pdb

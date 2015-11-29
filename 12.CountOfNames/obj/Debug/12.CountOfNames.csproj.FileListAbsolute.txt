@@ -1,0 +1,5 @@
+D:\tutzy\C#\Homework\ConsoleApplication1\12.CountOfNames\bin\Debug\12.CountOfNames.exe.config
+D:\tutzy\C#\Homework\ConsoleApplication1\12.CountOfNames\bin\Debug\12.CountOfNames.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\12.CountOfNames\bin\Debug\12.CountOfNames.pdb
+D:\tutzy\C#\Homework\ConsoleApplication1\12.CountOfNames\obj\Debug\12.CountOfNames.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\12.CountOfNames\obj\Debug\12.CountOfNames.pdb

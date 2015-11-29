@@ -1,0 +1,5 @@
+D:\tutzy\C#\Homework\ConsoleApplication1\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.exe.config
+D:\tutzy\C#\Homework\ConsoleApplication1\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.pdb
+D:\tutzy\C#\Homework\ConsoleApplication1\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.exe
+D:\tutzy\C#\Homework\ConsoleApplication1\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.pdb
